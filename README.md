@@ -1,5 +1,4 @@
-# Sachin-EDA-Capstone-Project-Play-Store-from-group-Achievers
-# EDA_on_Playstore_Data_Team_Achievers
+## Sachin-EDA-Capstone-Project-Play-Store-from-Group-Achievers
 ## Data description
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
 ```
